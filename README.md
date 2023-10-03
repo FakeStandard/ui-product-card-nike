@@ -8,5 +8,5 @@
 ![COVER](./preview.png)
 
 ### Reference
-[YT - Bedimcode](https://www.youtube.com/watch?v=vfo31QNQRg0&list=PL07efmqYWHZ9NmT3xyUFp7J7DptS8TcJr&index=1)
+[YT - Bedimcode](https://www.youtube.com/watch?v=vfo31QNQRg0)
 
